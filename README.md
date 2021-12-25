@@ -1,2 +1,2 @@
 # 391.35-Modded
-IMPORTANT: THIS DRIVER CAN ONLY SUPPORT 1080TI- GPU´S.
+IMPORTANT: This driver ONLY Support 1080ti or older gpu´s.
